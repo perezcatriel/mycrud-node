@@ -1,26 +1,26 @@
 {
-  "name": "node",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
-  },
-  "keywords": [],
-  "author": "Catriel Pérez <perezcatriel@gmail.com>",
-  "license": "MIT",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.18.1"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/perezcatriel/node.git"
-  },
-  "bugs": {
-    "url": "https://github.com/perezcatriel/node/issues"
-  },
-  "homepage": "https://github.com/perezcatriel/node#readme",
-  "description": ""
+	"name": "node",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "nodemon index.js"
+	},
+	"keywords": [],
+	"author": "Catriel Pérez <perezcatriel@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"express": "^4.18.1"
+	},
+	"devDependencies": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/perezcatriel/node.git"
+	},
+	"bugs": {
+		"url": "https://github.com/perezcatriel/node/issues"
+	},
+	"homepage": "https://github.com/perezcatriel/node#readme",
+	"description": ""
 }
